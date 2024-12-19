@@ -1,0 +1,14 @@
+{
+  "211IT001": {
+    "Name": "Abhishek",
+    "CGPA": 8.04,
+    "Branch": "IT",
+    "skills": ["DSA", "CPP", "DevOps"]
+  },
+  "211IT002": {
+    "Name": "Aditya",
+    "CGPA": 9.35,
+    "Branch": "ECE",
+    "skills": ["IoT", "DSA", "ML"]
+  }
+}

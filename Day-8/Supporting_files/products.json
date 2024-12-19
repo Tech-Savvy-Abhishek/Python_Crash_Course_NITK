@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "price": 25.99,
+      "category": "Electronics",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Headphones",
+      "price": 49.99,
+      "category": "Electronics",
+      "inStock": false
+    },
+    {
+      "id": 3,
+      "name": "Notebook",
+      "price": 5.49,
+      "category": "Stationery",
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "Desk Lamp",
+      "price": 19.99,
+      "category": "Home & Office",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "Travel Backpack",
+      "price": 39.95,
+      "category": "Accessories",
+      "inStock": false
+    },
+    {
+      "id": 6,
+      "name": "Running Shoes",
+      "price": 89.99,
+      "category": "Sportswear",
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "name": "Smartphone Charger",
+      "price": 14.99,
+      "category": "Electronics",
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "name": "Water Bottle",
+      "price": 9.95,
+      "category": "Fitness",
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "name": "Yoga Mat",
+      "price": 29.99,
+      "category": "Fitness",
+      "inStock": false
+    },
+    {
+      "id": 10,
+      "name": "USB Flash Drive",
+      "price": 12.99,
+      "category": "Electronics",
+      "inStock": true
+    }
+  ]
+}
